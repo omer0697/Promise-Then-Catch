@@ -21,4 +21,4 @@ getData("hello").then(response=>{
 })
 
 
-// then catch structure learned If resolve value want to take wtih then. If we want to take reject value we can take with catch 
+// then catch structure learned If resolve value want to take wtih then we can take. If we want to take reject value we can take with catch 
